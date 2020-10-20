@@ -8,7 +8,7 @@ En esta práctica vamos a cifrar ficheros utilizando cifrado asimétrico utiliza
 
 * Tarea 2: [Importar / exportar clave pública](https://github.com/CeliaGMqrz/cifrado_asimetrico_gpg_openssl/blob/main/importar_exportar_clavepub.md)
 
-* Tarea 3: [Cifrado asimétrico con claves públicas]()
+* Tarea 3: [Cifrado asimétrico con claves públicas](https://github.com/CeliaGMqrz/cifrado_asimetrico_gpg_openssl/blob/main/cifrado_asimetrico_claves_publicas.md)
 
 * Tarea 4: [Exportar clave a un servidor público de claves PGP]()
 
