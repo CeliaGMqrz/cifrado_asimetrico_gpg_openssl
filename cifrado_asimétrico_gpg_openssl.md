@@ -6,7 +6,7 @@ Para esta práctica no es necesario que indiquemos frase de paso en la generaci�
 
 ### 1. Genera un par de claves (pública y privada). ¿En que directorio se guarda las claves de un usuario?
 
-Generamos el par de claves con **gpg --gen-key**. Nos pedirá el Nombre, los apellidos y la dirección de correo electrónico. Además de una clave para encriptarla que debe de tener al menos un carácter especial para que sea más segura.
+* Generamos el par de claves con **gpg --gen-key**. Nos pedirá el Nombre, los apellidos y la dirección de correo electrónico. Además de una clave para encriptarla que debe de tener al menos un carácter especial para que sea más segura.
 
 ```sh
 celia@debian:~$ gpg --gen-key
@@ -51,7 +51,7 @@ sub   rsa3072 2020-10-20 [E] [caduca: 2022-10-20]
 
 ```
 
-El directorio donde se guardan es **.gnupg**.
+* El directorio donde se guardan es **.gnupg**.
 
 ```sh
 celia@debian:~$ cd .gnupg/
