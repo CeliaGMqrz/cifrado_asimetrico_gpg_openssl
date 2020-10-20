@@ -6,7 +6,7 @@ En esta práctica vamos a cifrar ficheros utilizando cifrado asimétrico utiliza
 
 * Tarea 1: [Generación de claves](https://github.com/CeliaGMqrz/cifrado_asimetrico_gpg_openssl/blob/main/cifrado_asim%C3%A9trico_gpg_openssl.md)
 
-* Tarea 2: [Importar / exportar clave pública]()
+* Tarea 2: [Importar / exportar clave pública](https://github.com/CeliaGMqrz/cifrado_asimetrico_gpg_openssl/blob/main/importar_exportar_clavepub.md)
 
 * Tarea 3: [Cifrado asimétrico con claves públicas]()
 
